@@ -1,4 +1,4 @@
-token=NTM5MzgxMzA2NjI3NDU3MDI0.DzBh5Q.KOBYg-ogiqtj1M8LE-5-JIdXa1U
+token=NTM5MzgxMzA2NjI3NDU3MDI0.D0OPyA.kc9D8YR76fYXoOQauKTzivnAxXk
 owner=503679689819291668
 prefix=K
 game=Surprise!
